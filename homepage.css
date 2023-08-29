@@ -1,0 +1,43 @@
+div#main{
+	/*property 1: background-color*/
+	background-color:whitesmoke;
+	margin: 0;
+	padding: 20px;
+}
+body{
+    background-color: aquamarine; 
+	width: 760px; 
+	margin: 0 auto;
+	/*property 2: font*/
+	font:20px Brush Script MT; 
+}
+h1{
+	color: aquamarine;
+	font-size: 60px;
+	letter-spacing: 8px;
+	/*property 3: text shadow*/
+	text-shadow: 2px 3px grey;
+	/*property 4: text-align*/
+	text-align: center;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color: aquamarine;
+    font-size: 20px;
+    text-shadow: 2px 3px grey;
+    text-align: center;
+    letter-spacing: 4px;
+	/*property 5: text-decoration*/
+    text-decoration:underline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    color: white;
+    font-size: 20px;
+    text-shadow: 2px 3px grey;
+    text-align: center;
+    letter-spacing: 4px;
+	/*property 5: text-decoration*/
+    text-decoration:underline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
